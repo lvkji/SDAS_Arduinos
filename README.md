@@ -1,2 +1,2 @@
-# SDAS_Arduinos
+# SADS_Arduinos
 Self Adaptive Distributed Systems (SADS) is an innovative project designed to demonstrate the principles of distributed computing using physical hardware networks. The project utilizes a series of interconnected Arduino devices to create a robust network capable of communicating data and security-related information autonomously. This system exemplifies how distributed devices can share information, make collective decisions, and adapt to changes within the network dynamically.
